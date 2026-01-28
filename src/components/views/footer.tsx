@@ -12,7 +12,7 @@ interface FooterProps {
 const Footer = memo(
   ({
     className = '',
-    authorName = ' Ananya Srishti',
+    authorName = ' Ananya',
     githubUsername = 'AnanyaSrishti10',
     repoUrl = 'weather-webapp-nextjs',
   }: FooterProps) => {

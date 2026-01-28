@@ -87,5 +87,5 @@ This project uses the OpenWeather API for weather data. Ensure you comply with O
 - ![Screenshot 3](src/public/image/s2.png)
 ---
 
-Created with ❤️ by  Ananya Srishti
+Created with ❤️ by  Ananya 
 🌤️ Weather data provided by Google API OpenWeather API
